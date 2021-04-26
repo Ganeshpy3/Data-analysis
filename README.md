@@ -1,5 +1,5 @@
 # Data-analysis 
  
-##Library used 
--numpy 
--pandas
+## Library used 
+- numpy 
+- pandas
