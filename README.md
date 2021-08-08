@@ -1,8 +1,3 @@
 # Data-analysis 
-###  Ground analysis [-->](https://github.com/ganeshpython/Data-analysis/blob/main/ipl%20ground%20analysis.ipynb)
-### c
-# chennai ground
- 
-## Library used 
-- numpy 
-- pandas
+# Statistics  playlist[Khan academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
+### 
